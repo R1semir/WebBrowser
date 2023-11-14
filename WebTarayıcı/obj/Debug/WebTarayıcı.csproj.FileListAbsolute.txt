@@ -1,0 +1,15 @@
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\bin\Debug\WebTarayıcı.exe.config
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\bin\Debug\WebTarayıcı.exe
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\bin\Debug\WebTarayıcı.pdb
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.Form1.resources
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.Properties.Resources.resources
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.exe
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.pdb
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\WebTarayıcı\WebTarayıcı\obj\Debug\WebTarayıcı.csproj.ResolveComReference.cache
